@@ -1,3 +1,2 @@
-# Ignore all .log files
-*.DS_Store
-
+# Ignore a specific file, e.g. 'config.json'
+.DS_Store
